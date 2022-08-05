@@ -1,0 +1,15 @@
+const String appname = "eXperience";
+const String matchday = "MATCHDAY";
+const String date = "07/22 1:30PM - 07/26 9:30PM";
+const String gamecontest = "Game Contest";
+const String viewall = "View All";
+const String gamename = "M1|All Games";
+const String fee = "Fee: \$ 0.00";
+const String prize = "Prize: 20 Pts";
+const String sold = "Sold Out";
+const String seats = "24 of 30 Seats";
+const String join = "Join";
+const String back = "Back";
+const String version = "Version 1.0";
+const String continueText = "Continue";
+const String viewMore = "View More";
